@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnsafeLib", "UnsafeLib\UnsafeLib.csproj", "{0756987B-5ACA-4D0C-97F4-B23EABA2AEAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnsafeLib.Test", "UnsafeLib.Test\UnsafeLib.Test.csproj", "{3E69508E-D8FE-4D91-A87E-2E22D44CABA6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0756987B-5ACA-4D0C-97F4-B23EABA2AEAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0756987B-5ACA-4D0C-97F4-B23EABA2AEAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0756987B-5ACA-4D0C-97F4-B23EABA2AEAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0756987B-5ACA-4D0C-97F4-B23EABA2AEAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E69508E-D8FE-4D91-A87E-2E22D44CABA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E69508E-D8FE-4D91-A87E-2E22D44CABA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E69508E-D8FE-4D91-A87E-2E22D44CABA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E69508E-D8FE-4D91-A87E-2E22D44CABA6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
